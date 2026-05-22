@@ -1,4 +1,4 @@
-Swapify AI
+# Swapify AI
 AI-Powered Recycling Marketplace Prototype
 
 Swapify AI is a modern web-based recycling marketplace prototype that helps users turn waste into value.
@@ -55,13 +55,14 @@ TensorFlow.js	AI Model Execution
 MobileNet	Image Classification
 Leaflet.js	Maps & Location
 Font Awesome	Icons
-Project Structure
+
+## Project Structure
 Swapify-AI/
-│
-├── index.html        # Main application file
-├── assets/           # Images and icons
-├── styles/           # CSS files 
-├── scripts/          # JavaScript files
+
+├── index.html       
+├── assets/           
+├── styles/           
+├── scripts/       
 └── README.md
 Getting Started
 1. Clone the Repository
@@ -76,7 +77,8 @@ in your browser.
 
 No backend setup required.
 
-AI Scan Workflow
+# AI Scan Workflow
+
 Upload or capture an image
 AI analyzes the recyclable item
 System predicts:
@@ -114,8 +116,15 @@ Marketplace
 Collector Network
 Eco Dashboard
 Subscription Plans
+# Screenshot and demo video
+<img width="1916" height="1010" alt="image" src="https://github.com/user-attachments/assets/02c2a34a-ebd9-4b13-88c0-a9060a1ffa2f" />
 
-AI Scanning Feature
+<img width="1919" height="1036" alt="image" src="https://github.com/user-attachments/assets/f3e8bc50-8704-49f6-8539-951c030c9b19" />
+
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/b09fabce-3a86-4dac-9302-dbd761bacb76" />
+
+
+## AI Scanning Feature
 
 Important Note:
 The current AI scanning system is not performing actual image recognition or real AI-based waste detection yet.
